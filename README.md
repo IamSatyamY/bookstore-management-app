@@ -27,3 +27,6 @@ Technologies Used:
 Installation & Setup : Clone the repository: git clone link of repository cd bookstore-management-app
 
 Build and run the project: Open the application in a browser run on 8080
+
+![Screenshot (1420)](https://github.com/user-attachments/assets/d484bf4d-4e1e-4c99-8032-9936b0f29deb)
+
